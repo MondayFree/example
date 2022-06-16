@@ -19,7 +19,8 @@
 
     <h2>upload data</h2>
     <form action="">
-        <input type="text">
+        <input type="text" name="name">
+        <button type="submit">upload</button>
     </form>
 </body>
 </html>
