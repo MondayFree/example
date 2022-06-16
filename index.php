@@ -28,12 +28,5 @@
         <input type="text" name="name">
         <button type="submit" name="submit">upload</button>
     </form>
-
-    <script>
-        const searching = document.getElementById('search');
-        searching.addEventListener('change', event => {
-
-        });
-    </script>
 </body>
 </html>
