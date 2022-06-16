@@ -14,7 +14,7 @@
                 <th>nama</th>
                 <th>nilai</th>
             </tr>
-        </thead>
+        </thead> 
         <tr>
             <td>ahmad</td>
             <td>90</td>
