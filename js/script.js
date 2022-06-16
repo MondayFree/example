@@ -8,4 +8,7 @@ let data;
 fetch('www.kemendikbud.com?univ=all')
     .then(res => {
         data = JSON.parse(res);
+    })
+    .catch(res => {
+        alert(res);
     });
