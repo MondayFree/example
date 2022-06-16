@@ -12,3 +12,7 @@ fetch('www.kemendikbud.com?univ=all')
     .catch(res => {
         alert(res);
     });
+
+for(data of dt) {
+    console.log(dt);
+}
