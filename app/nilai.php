@@ -24,5 +24,6 @@
             <td>70</td>
         </tr>
     </table>
+    <button>print mahasiswa</button>
 </body>
 </html>
