@@ -1,5 +1,7 @@
 <?php
-    echo 'hello world';
+    if(isset($_POST['submit'])) {
+
+    }
 ?>
 
 <!DOCTYPE html>
@@ -11,11 +13,21 @@
     <title>mahasiswa</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h2>mahasiswa</h2>
     <ul>
         <li>ubed</li>
         <li>samsul</li>
         <li>udin</li>
     </ul>
+=======
+    <br><br><br>
+    
+    <h2>upload data</h2>
+    <form action="" method="post">
+        <input type="text" name="name">
+        <button type="submit" name="submit">upload</button>
+    </form>
+>>>>>>> upload
 </body>
 </html>
