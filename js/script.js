@@ -11,6 +11,9 @@ fetch('www.kemendikbud.com?univ=all')
     .catch(res => {
         alert(res);
     });
+for(data of dt) {
+    console.log(dt);
+}
 
 let mhs;
 fetch('www.kemendikbud.com?mhs=all')
@@ -20,3 +23,6 @@ fetch('www.kemendikbud.com?mhs=all')
     .catch(res => {
         alert(res);
     });
+for(mhs of dt) {
+    console.log(dt);
+}
