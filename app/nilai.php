@@ -7,6 +7,7 @@
     <title>halaman nilai</title>
 </head>
 <body>
+    <h1>nilai mahasiswa</h1>
     <table>
         <thead>
             <tr>
