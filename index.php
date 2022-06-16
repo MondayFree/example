@@ -13,6 +13,8 @@
     <title>mahasiswa</title>
 </head>
 <body>
+    <input type="text" id="search">
+
     <h2>mahasiswa</h2>
     <ul>
         <li>ubed</li>
