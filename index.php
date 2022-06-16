@@ -28,5 +28,9 @@
         <input type="text" name="name">
         <button type="submit" name="submit">upload</button>
     </form>
+
+    <br><br>
+
+    <a href="page/nilai.php">halaman nilai</a>
 </body>
 </html>
