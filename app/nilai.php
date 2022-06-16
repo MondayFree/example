@@ -14,16 +14,14 @@
                 <th>nilai</th>
             </tr>
         </thead>
-        <tbody>
-            <tr>
-                <td>ahmad</td>
-                <td>90</td>
-            </tr>
-            <tr>
-                <td>ubed</td>
-                <td>70</td>
-            </tr>
-        </tbody>
+        <tr>
+            <td>ahmad</td>
+            <td>90</td>
+        </tr>
+        <tr>
+            <td>ubed</td>
+            <td>70</td>
+        </tr>
     </table>
 </body>
 </html>
