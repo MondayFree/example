@@ -31,6 +31,9 @@
 
     <script>
         const searching = document.getElementById('search');
+        searching.addEventListener('change', event => {
+
+        });
     </script>
 </body>
 </html>
