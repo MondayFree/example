@@ -14,5 +14,12 @@
     <ul>
         <li>samsul</li>
     </ul>
+
+    <br><br><br>
+
+    <h2>upload data</h2>
+    <form action="">
+        <input type="text">
+    </form>
 </body>
 </html>
